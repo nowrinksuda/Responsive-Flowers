@@ -320,7 +320,7 @@ body {
 
 .footer-container {
   max-width: 1200px;
-  margin: 50px 160px;
+  margin: 40px 120px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -379,7 +379,7 @@ body {
 }
 
 /* resposive */
-/*@media screen and (max-width: 576px) {
+@media screen and (max-width: 576px) {
   .navbar {
     margin: 13px 16px 0px 16px;
   }
@@ -564,4 +564,3 @@ body {
     margin-bottom: 16px;
   }
 }
-*/

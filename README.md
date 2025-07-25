@@ -8,11 +8,11 @@ mobile-friendly design and organized sections.
 
 [Live Site]: https://nowrinksuda.github.io/Responsive-Flowers/
 
-### 💻 Desktop View
+### Desktop View
 
 ![Desktop View](https://raw.githubusercontent.com/nowrinksuda/Responsive-Flowers/main/assets/hero-flower.png)
 
-### 📱 Mobile View
+### Mobile View
 
 ![Mobile View](assets/deal-bloom.png)
 
@@ -37,16 +37,18 @@ mobile-friendly design and organized sections.
 
 ## Folder Structure
 
-project-folder/ │ ├── index.html ├── style.css └── assets/ ├── logo.png ├──
-hero-flower.png ├── sample-flower-image.png ├── flower-store.png ├──
-trusted-badge.png ├── deal-bloom.png ├── deal-ana.png ├── deal-zabo.png ├──
-news-letter-bg.png ├── icon-linkedin.png ├── icon-twitter.png ├──
-icon-facebook.png └── icon-youtube.png
+project-folder/ ├── index.html ├── style.css └── assets ├── logo.png
+├──hero-flower.png ├── sample-flower-image.png ├── flower-store.png
+├──trusted-badge.png ├── deal-bloom.png ├── deal-ana.png ├── deal-zabo.png
+├──news-letter-bg.png ├── icon-linkedin.png ├── icon-twitter.png
+├──icon-facebook.png └── icon-youtube.png
 
-## 📩 Contact
+## Contact
 
-Made with 💐 by **Nowrin**  
- Email: your-email@example.com  
- GitHub: [@nowrinksuda](https://github.com/nowrinksuda)
+Made with 💐 by **Nowrin**
+
+Email:nowrinmaksuda408@gmail.com
+
+GitHub: [@nowrinksuda](https://github.com/nowrinksuda)
 
 Feel free to this repo if you like the design!
